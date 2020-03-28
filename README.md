@@ -1,5 +1,9 @@
 # News_app
-google news free Api using : tablayout viewPager RecyclerView RetroFit2 Explicit webView 
+google news free API 
+
+using:
+
+tablayout viewPager RecyclerView RetroFit2 Explicit webView 
 
 
 Screan shots
