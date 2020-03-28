@@ -3,7 +3,7 @@ google news free API
 
 using:
 
-tablayout viewPager RecyclerView RetroFit2 Explicit webView 
+tablayout, Framhent, viewPager, RecyclerView, RetroFit2, Explicit webView 
 
 
 Screan shots
